@@ -1,5 +1,6 @@
 ﻿= 鸟叔的Linux私房菜 基础学习篇
 :toc: preamble
+:toclevels: 5
 
 .Author
 Jacky He
